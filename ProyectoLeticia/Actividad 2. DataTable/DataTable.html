@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DataTable</title>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.24/css/jquery.dataTables.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.js"></script>
+</head>
+<body>
+<br>
+<br>
+
+<center><h1>ACTIVIDAD 2. DATATABLE</h1></center>
+    <table id="example" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th>Nombres</th>
+                <th>Apellido Paterno</th>
+                <th>Edad</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Leticia De Jesús</td>
+                <td>Cano Díaz</td>
+                <td>20</td>
+            </tr>
+            <tr>
+                <td>Edryss Gabriela</td>
+                <td>Gaona Guajardo</td>
+                <td>20</td>
+            </tr>
+            <tr>
+                <td>Lesslie Yazlyn</td>
+                <td>Torres Díaz</td>
+                <td>20</td>
+            </tr>
+            <tr>
+                <td>Geraldine</td>
+                <td>Abundiz De La Rosa</td>
+                <td>20</td>
+            </tr>
+            <tr>
+                <td>Cony Daffne</td>
+                <td>Díaz Alejandro</td>
+                <td>16</td>
+            </tr>
+            <tr>
+                <td>Evelyn Xitlaly</td>
+                <td>Díaz Alejandro</td>
+                <td>15</td>
+            </tr>
+            <tr>
+                <td>Geraldie Briseidi</td>
+                <td>Pintor Alejandro</td>
+                <td>8</td>
+            </tr>
+            <tr>
+                <td>Nataly Rubi</td>
+                <td>Alejandro Hiracheta</td>
+                <td>12</td>
+            </tr>
+            <tr>
+                <td>Melissa</td>
+                <td>Aranda Garcia</td>
+                <td>19</td>
+            </tr>
+            <tr>
+                <td>Georgina</td>
+                <td>Veléz Muños</td>
+                <td>14</td>
+            </tr>
+
+            <!-- Add more rows as needed -->
+        </tbody>
+    </table>
+
+    <script>
+        $(document).ready(function () {
+            $('#example').DataTable();
+        });
+    </script>
+
+</body>
+</html>
