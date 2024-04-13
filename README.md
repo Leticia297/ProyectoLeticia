@@ -1,6 +1,8 @@
 # ProyectoLeticia
 El presente repositorio muestra evidencia de cada una de las actividades que realice en el transcurso del parcial, así como un archivo que contiene las carpetas de las actividades realizadas con la finalidad de crear mi portafolio de evidencias.
 
+# Proyecto Primer Parcial
+
 Actividad 1. Curriculum
 
 En esta actividad se creo un curriculum en html en donde se utilizaron diferentes elementos para la creación del codigo y así poderlo visualizar de la manera que se muestra a continuación.
