@@ -1,5 +1,5 @@
 # Proyecto Leticia
-El presente repositorio muestra evidencia de cada una de las actividades que realice en el transcurso del parcial, así como un archivo que contiene las carpetas de las actividades realizadas con la finalidad de crear mi portafolio de evidencias.
+El presente repositorio muestra evidencia de cada una de las actividades que realice en el transcurso de los parciales, así como los archivos que contienen carpetas de las actividades realizadas con la finalidad de crear mi portafolio de evidencias.
 
 # Proyecto Primer Parcial
 
