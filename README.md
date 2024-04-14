@@ -1,4 +1,4 @@
-# ProyectoLeticia
+# Proyecto Leticia
 El presente repositorio muestra evidencia de cada una de las actividades que realice en el transcurso del parcial, así como un archivo que contiene las carpetas de las actividades realizadas con la finalidad de crear mi portafolio de evidencias.
 
 # Proyecto Primer Parcial
@@ -66,3 +66,61 @@ En esta actividad se creo una tabla utilizando la información del array creada 
 ![image](https://github.com/Leticia297/ProyectoLeticia/assets/125916395/909a2c3f-35e6-4fee-afcc-5e501ef7f909)
 ![image](https://github.com/Leticia297/ProyectoLeticia/assets/125916395/b017d4fe-4c80-4ce9-9679-981bb3b047a5)
 ![image](https://github.com/Leticia297/ProyectoLeticia/assets/125916395/a91c410a-27f4-4306-9d30-fdec15f529a0)
+
+# Proyecto Segundo Parcial
+
+Login
+
+En este apartado se creo un login en donde se pone usuario y contraseña para poder tener acceso al menú principal de nuestro proyecto, se le dio el diseño adecuado para que se pudiera observar de mejor manera.
+
+![image](https://github.com/Leticia297/ProyectoLeticia/assets/125916395/47d773d2-7bb6-444f-90ab-01e480747e22)
+![image](https://github.com/Leticia297/ProyectoLeticia/assets/125916395/66774d9d-5bdc-43d9-ad58-816bd1499a7b)
+![image](https://github.com/Leticia297/ProyectoLeticia/assets/125916395/3532000f-6c33-47b1-b211-73282424f9c0)
+
+Menú
+
+En este apartado se creo un menú en donde se pueden observar cada uno de los apartados con los que cuenta el proyecto como: Personas, Sucursales, Clientes, Perfiles y Cerrar Sesión.
+
+![image](https://github.com/Leticia297/ProyectoLeticia/assets/125916395/3869d9ab-4c9f-42a3-bbaf-f6479dcc0b52)
+![image](https://github.com/Leticia297/ProyectoLeticia/assets/125916395/070783e4-b40c-4db6-beb0-5ff93ccd09c7)
+![image](https://github.com/Leticia297/ProyectoLeticia/assets/125916395/6999e441-9070-4685-8853-e86b8d0c92a6)
+
+Personas
+
+Aquí se creo un apartado de personas en donde se observa una tabla que muestra ID, Nombre, Apellido Paterno, Apellido Materno, Sexo, CURP y Fecha en donde tambien se muestra un botón para poder eliminar los registros de la tabla. En la parte superior de la tabla se pueden observar cuatro botones diferentes los cuales tinen las siguientes funciones: obtener archivos de Excel, obtener archivos en PDF, Imprimir e Insertar nuevos registros en la tabla.
+
+![image](https://github.com/Leticia297/ProyectoLeticia/assets/125916395/37edd6b9-afb0-4617-a70d-657b2d6d17b6)
+![image](https://github.com/Leticia297/ProyectoLeticia/assets/125916395/e4934b6f-5baa-403d-a92f-5f5f550f70f3)
+![image](https://github.com/Leticia297/ProyectoLeticia/assets/125916395/23141cc4-56d5-4689-b7c5-58773a39946a)
+
+Sucursales
+
+Aquí se creo un apartado de sucursales en donde se observa una tabla la cual contiene los siguientes datos: ID, Nombre, Dirección, Teléfono y Fecha en donde tambien contiene un botón para poder eliminar los registros que no se necesitan. De igual manera se pueden observar en la parte superior de la tabla cuatro botones diferentes los cuales tinen las siguientes funciones: obtener archivos de Excel, obtener archivos en PDF, Imprimir e Insertar nuevos registros en la tabla.
+
+![image](https://github.com/Leticia297/ProyectoLeticia/assets/125916395/bb69d581-b0db-4bf0-8dbf-587b88e468bb)
+![image](https://github.com/Leticia297/ProyectoLeticia/assets/125916395/88d900dc-cbb1-43b6-b5ef-95b8e1827e1b)
+![image](https://github.com/Leticia297/ProyectoLeticia/assets/125916395/2bdd7431-e20c-4cfc-834c-05b4baaae25c)
+
+Clientes
+
+Aquí se creo un apartado de clientes en donde se puede observar la tabla que contiene los siguientes datos: ID, Nombre, Apellido Paterno, Apellido Materno, Correo, Dirección, Fecha de Nacimiento, Teléfono, Sexo, CURP, Código Postal y Fecha en donde tambien contiene un botón para poder eliminar los registros que no se necesitan. De igual manera se pueden observar en la parte superior de la tabla cuatro botones diferentes los cuales tinen las siguientes funciones: obtener archivos de Excel, obtener archivos en PDF, Imprimir e Insertar nuevos registros en la tabla.
+
+![image](https://github.com/Leticia297/ProyectoLeticia/assets/125916395/694ed5ca-e532-4f81-9d20-43aac58ccd2c)
+![image](https://github.com/Leticia297/ProyectoLeticia/assets/125916395/1b721990-e98a-4e1f-b960-3f41b06a3cba)
+![image](https://github.com/Leticia297/ProyectoLeticia/assets/125916395/868f2e3b-14eb-4006-835a-b179c2561f19)
+
+Perfiles
+
+Aquí se creo un apartado de perfiles en donde se puede observar la tabla que contiene los siguientes datos: ID, Nombre, Descripción y Fecha en donde tambien contiene un botón para poder eliminar los registros que no se necesitan. De igual manera se pueden observar en la parte superior de la tabla cuatro botones diferentes los cuales tinen las siguientes funciones: obtener archivos de Excel, obtener archivos en PDF, Imprimir e Insertar nuevos registros en la tabla.
+
+![image](https://github.com/Leticia297/ProyectoLeticia/assets/125916395/64a45b0c-e6f9-4482-973a-4efbeca1e216)
+![image](https://github.com/Leticia297/ProyectoLeticia/assets/125916395/11b39660-4ebd-45f7-aac9-588a185f95f0)
+![image](https://github.com/Leticia297/ProyectoLeticia/assets/125916395/2fce9710-3e94-48ac-bd0b-abf461d7ca7a)
+
+Cerrar Sesión
+
+Por ultimo aquí se creo un apartado en donde al dar click se cierre sesión y mande directo al login del proyecto.
+
+![image](https://github.com/Leticia297/ProyectoLeticia/assets/125916395/21003c9e-9e9e-4bde-aee4-35f995823ad0)
+![image](https://github.com/Leticia297/ProyectoLeticia/assets/125916395/1a157208-6364-45d5-8996-9237ae3f5273)
+![image](https://github.com/Leticia297/ProyectoLeticia/assets/125916395/24b58b52-4476-4d5a-8e47-434b12ca31f3)
